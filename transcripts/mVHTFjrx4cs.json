@@ -1,0 +1,31 @@
+{
+  "video_id": "mVHTFjrx4cs",
+  "url": "https://www.youtube.com/watch?v=mVHTFjrx4cs",
+  "title": "Medical Medium Cucumber Juice",
+  "published_at": "2019-03-15T00:00:00.000Z",
+  "fetched_at": "2026-09-22T18:42:57.053Z",
+  "segment_count": 4,
+  "text": "[Music] [Music] [Music] you",
+  "segments": [
+    {
+      "start": "6.740",
+      "dur": "6.240",
+      "text": "[Music]"
+    },
+    {
+      "start": "23.070",
+      "dur": "3.129",
+      "text": "[Music]"
+    },
+    {
+      "start": "28.290",
+      "dur": "3.160",
+      "text": "[Music]"
+    },
+    {
+      "start": "36.210",
+      "dur": "2.060",
+      "text": "you"
+    }
+  ]
+}
